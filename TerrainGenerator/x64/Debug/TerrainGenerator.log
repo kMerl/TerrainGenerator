@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(90,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(90,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(91,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(92,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(92,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(96,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(96,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(97,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(98,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(98,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(153,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\clg\projectCG\TerrainGenerator\TerrainGenerator\main.cpp(154,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TerrainGenerator.vcxproj -> D:\clg\projectCG\TerrainGenerator\x64\Debug\TerrainGenerator.exe
